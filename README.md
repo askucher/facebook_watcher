@@ -2,7 +2,14 @@
 Watch facebook comments and posts and answer from your neural network
 
 
+![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_(2015).svg/1280px-Facebook_New_Logo_(2015).svg.png)
 
+Install 
+```javascript
+npm install flyber_facebook_watcher
+```
+
+Use in your code
 ```javascript
 
 var facebook_watcher = require("facebook_watcher");
@@ -42,9 +49,11 @@ subscription.on("comment", function(comment) {
 
 ```
 
-##In order to get this working please contact to a.stegno@gmail.com
+In order to get this working please contact to a.stegno@gmail.com
 
 ```Price
 Subscription: 50$ per month. 
 ```
+
+The website http://flyber.net
 
